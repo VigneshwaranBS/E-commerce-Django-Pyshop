@@ -1,0 +1,11 @@
+To run :
+python manage.py runserver
+
+/admin   -> for admin panel 
+username : vicky
+password : 123456
+
+/products  -> to see all the products 
+
+To cretae new user
+python manage.py createsuperuser
