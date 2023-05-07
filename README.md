@@ -1,6 +1,13 @@
 # E-commerce Django PyShop
 
-This is an e-commerce web application built using Django and PyShop. The project aims to provide a platform for users to browse and purchase products online. The application includes features such as product listings, shopping cart, checkout, and payment processing.
+E-commerce Django PyShop is a fully-functional e-commerce web application built using Django and PyShop. The project aims to provide a platform for users to browse and purchase products online. The application includes features such as product listings, shopping cart, checkout, and payment processing.
+
+The project includes the following features:
+
+-   User authentication: Users can create accounts and login to the application to view their profile and order history.
+-   Product listings: The application displays a list of products available for purchase, including details such as product name, description, price, and image.
+-   Product search: Users can search for products based on keywords.
+-   Shopping cart: Users can add products to their shopping cart, view the contents of their cart, and adjust quantities or remove items.
 
 ## Getting Started
 
@@ -43,8 +50,3 @@ The application should now be accessible at [http://localhost:8000/](http://loca
 
 -   [Vigneshwaran BS](https://github.com/VigneshwaranBS)
 
-`
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](https://chat.openai.com/c/LICENSE.md) file for details.
-`
