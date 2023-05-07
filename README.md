@@ -7,25 +7,30 @@ This is an e-commerce web application built using Django and PyShop. The project
 To get started with the project, clone the repository and navigate to the project directory:
 
 bashCopy code
-
-`git clone https://github.com/VigneshwaranBS/e-commerce-django-pyshop.git
-cd e-commerce-django-pyshop` 
+```
+git clone https://github.com/VigneshwaranBS/e-commerce-django-pyshop.git
+```
+```
+cd e-commerce-django-pyshop 
+```
 
 ### Prerequisites
 
 To run the project, you will need to have Python and Django installed on your machine. You can install them using pip:
 
 Copy code
-
-`pip install Django` 
+```
+pip install Django 
+```
 
 ### Installing
 
 Once you have installed the prerequisites, you can run the project using the following command:
 
 Copy code
-
-`python manage.py runserver` 
+```
+python manage.py runserver 
+```
 
 The application should now be accessible at [http://localhost:8000/](http://localhost:8000/).
 
