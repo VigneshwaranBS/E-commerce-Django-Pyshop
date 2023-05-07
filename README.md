@@ -43,6 +43,8 @@ The application should now be accessible at [http://localhost:8000/](http://loca
 
 -   [Vigneshwaran BS](https://github.com/VigneshwaranBS)
 
+`
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://chat.openai.com/c/LICENSE.md) file for details.
+`
