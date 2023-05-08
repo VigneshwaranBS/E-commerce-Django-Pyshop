@@ -46,6 +46,9 @@ The application should now be accessible at [http://localhost:8000/](http://loca
 -   Django - The web framework used
 -   Python - An open-source software 
 
+## For more info about project
+-   Readm the sample.txt file.
+
 ## Authors
 
 -   [Vigneshwaran BS](https://github.com/VigneshwaranBS)
