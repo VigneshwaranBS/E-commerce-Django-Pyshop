@@ -47,7 +47,7 @@ The application should now be accessible at [http://localhost:8000/](http://loca
 -   Python - An open-source software 
 
 ## For more info about project
--   Readm the sample.txt file.
+-   Read the sample.txt file.
 
 ## Authors
 
