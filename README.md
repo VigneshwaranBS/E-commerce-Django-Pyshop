@@ -1,4 +1,4 @@
-# E-commerce Django PyShop ...
+# E-commerce Django PyShop .
 
 E-commerce Django PyShop is a fully-functional e-commerce web application built using Django and PyShop. The project aims to provide a platform for users to browse and purchase products online. The application includes features such as product listings, shopping cart, checkout, and payment processing.
 
